@@ -1,0 +1,29 @@
+{
+  "name": "lodown",
+  "version": "1.0.0",
+  "description": "An npm functional programming library project",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snrewc/lodown.git"
+  },
+  "author": "Samir Rahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snrewc/lodown/issues"
+  },
+  "homepage": "https://github.com/snrewc/lodown#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "i": "^0.3.6",
+    "istanbul": "^0.4.5",
+    "mocha": "^8.3.2",
+    "sinon": "^9.2.4"
+  }
+}
